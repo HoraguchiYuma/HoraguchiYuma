@@ -1,4 +1,9 @@
-### Hi there 👋
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-sage-phi.vercel.app/api?username=HoraguchiYuma&show_icons=true&count_private=ture" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats-sage-phi.vercel.app/api/top-langs/?username=HoraguchiYuma&hide=Jupyter%20Notebook" />
+</a>
 
 <!--
 **HoraguchiYuma/HoraguchiYuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
